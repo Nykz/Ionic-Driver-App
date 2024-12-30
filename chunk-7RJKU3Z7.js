@@ -1,0 +1,1 @@
+import{F as o}from"./chunk-HSJ3UP2Q.js";var a=(()=>{let t=class t{transform(e){if(!e)return null;let i=(e.toString().split(".")[1]||[]).length;return(i===1||i>2)&&(e=e.toFixed(2)),e}};t.\u0275fac=function(i){return new(i||t)},t.\u0275pipe=o({name:"decimal",type:t,pure:!0});let r=t;return r})();export{a};
